@@ -1,4 +1,5 @@
 Bước 1: Chạy file data.sql trên sql server
+
 Bước 2: Vào project chọn app.config trên các project LibraryMangement, DTO, DAO
 trong thẻ ConnectionStrings:
 <connectionStrings>
@@ -6,4 +7,6 @@ trong thẻ ConnectionStrings:
 </connectionStrings>
 đổi tên giá trị data soruce thành tên server chứa database mới tạo
 đổi giá trị initial catalog thành tên database mới tạo
+
+
 Bước 3: chạy project và xem kết quả
